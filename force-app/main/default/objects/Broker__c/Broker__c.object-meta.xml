@@ -53,7 +53,7 @@
     <enableStreamingApi>true</enableStreamingApi>
     <label>Broker</label>
     <nameField>
-        <label>Force Overwrite Deployment</label>
+        <label>Push antes do deploymentStatus</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>Brokers</pluralLabel>
