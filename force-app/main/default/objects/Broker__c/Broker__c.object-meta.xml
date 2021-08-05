@@ -53,7 +53,7 @@
     <enableStreamingApi>true</enableStreamingApi>
     <label>Broker</label>
     <nameField>
-        <label>Broker Name Helio</label>
+        <label>Force Overwrite Deployment</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>Brokers</pluralLabel>
